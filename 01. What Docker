@@ -1,0 +1,17 @@
+- Docker là một công cụ để chạy container
+- Các phiên bản của Docker
+  + Docker Community (miễn phí)
+  + Docker Enterprise (trả phí)
+Docker Enterprise chủ yếu được sử dụng với Linux
+Docker Enterprise cung cấp giao diện quản trị
+Dev và Sys có thể dùng bản Docker Commuity để học tập và phát triển
+
+- DockerHub
++ Là dịch vụ cho phép lữu trữ các Repo (registry) image Docker. Hiểu đơn giản thì như "Github nhưng dành cho Docker image"
+1. Official Images
+    + Image chính chủ, tối ưu, bảo mật
+    + Ví dụ: nginx, mysql, redis, postgres, node, python
+2. Community Images
+    + Do cá nhân và tổ chức chia sẻ (cần đọc kỹ trước khi sử dụng)
+3. Private Repositories
+    + Lưu trữ image nội bộ cho công ty/dự án
