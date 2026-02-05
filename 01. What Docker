@@ -15,3 +15,8 @@ Dev và Sys có thể dùng bản Docker Commuity để học tập và phát tr
     + Do cá nhân và tổ chức chia sẻ (cần đọc kỹ trước khi sử dụng)
 3. Private Repositories
     + Lưu trữ image nội bộ cho công ty/dự án
+
+Docker chạy trên các nền tảng OS
+- Windows Container
+- MacOS Container
+= Linux Container
